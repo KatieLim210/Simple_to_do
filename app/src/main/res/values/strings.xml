@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple to do</string>
+
+    <string-array name="spinnerList">
+        <item>Add a new task</item>
+        <item>Remove a task</item>
+    </string-array>
+</resources>

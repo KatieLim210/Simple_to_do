@@ -1,0 +1,13 @@
+
+<resources>
+
+    <!-- Defined a new style with three items of color. -->
+    <style name="DemoTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/MediumSeaGreen</item>
+
+        <!-- Defining that new color in ColorPrimaryDark -->
+        <item name="colorPrimaryDark">@color/MediumSeaGreen</item>
+        <item name="colorAccent">@color/MediumSeaGreen</item>
+    </style>
+</resources>
